@@ -51,7 +51,7 @@ a permission from three characters:
 if we have a file with permission `33188 decimal` = `100644 octal` = `-rw-r--r--`
 such that :
 
-   1)  -  :  file type
+   1)  \-  :  file type
    2) rw- :  user permission
    3) r-- :  group permission
    4) r-- :  other permission

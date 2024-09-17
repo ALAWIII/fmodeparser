@@ -2,7 +2,7 @@
 name = "fmodeparser"
 version = "0.1.0"
 edition = "2021"
-license = "GPL-3"
+license = "GPL-3.0"
 authors = ["allawiii <alighraibeh87@gmail.com>"]
 description = "A tool to parse the file permission into a unix-like text representation"
 [dependencies]
